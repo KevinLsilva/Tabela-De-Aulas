@@ -1,0 +1,43 @@
+table {
+    
+    border-collapse: collapse;
+    width: 50%;
+    border: 3px solid 
+
+}
+
+tbody {
+    
+    font-size: 90%;
+    font-style: italic;
+    letter-spacing: 1px;
+
+
+
+}
+
+thead {
+
+    color: black;
+
+
+
+}
+
+td {
+
+    text-align: center;
+    border: 1px solid rgb(100, 130, 40);
+    
+}
+
+th, td {
+
+    padding: 2px 5px;
+}
+
+th {
+    color: black;
+    background-color: grey
+  
+}
